@@ -26,7 +26,7 @@ Loop AI - Voice-to-Voice Hospital Assistant
 
 5. Text-to-Speech (TTS): Deepgram Aura 
 
-6. Search Engine: Fuse.js 
+6. Search Engine: Fuse.js
 
 Deployed Link - https://loop-ai-hospital-network-assistant.onrender.com/
 ##
